@@ -1,7 +1,7 @@
 # Gantt chart Project management tools
 
 [https://gantt-online.com/](https://gantt-online.com/)
-![A Project ](https://gantt-online.com/api/svg/f14661caf04661f6fe/)
+![A Project ](https://gantt-online.com/api/svg/f14661caf04661f6fe/?1)
 
 
 #  Private Deployment Documentation
